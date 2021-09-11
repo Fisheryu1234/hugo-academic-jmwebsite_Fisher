@@ -14,7 +14,7 @@ role: PhD candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Rice university
+- name: Rice University
   url: "www.rice.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,9 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=GOOGLE-SCHOLAR-ID#
+- icon: linkedin
+  icon_pack:fab 
+  link: https://www.linkedin.com/in/xiaoyu-yu-97256141/
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/GITHUB-USERNAME
