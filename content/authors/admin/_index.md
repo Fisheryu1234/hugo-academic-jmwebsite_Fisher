@@ -36,7 +36,7 @@ education:
       year: 2017
     - course: BSc in Statistics
       institution: Fudan University
-      year: 2011
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
