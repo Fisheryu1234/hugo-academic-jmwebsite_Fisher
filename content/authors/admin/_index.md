@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Job Candidate
+title: Xiaoyu(Fisher) Yu
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ role: PhD candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Big Ten University
-  url: ""
+- name: Rice university
+  url: "www.rice.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics. 
@@ -28,14 +28,14 @@ interests:
 education:
   courses:
   - course: PhD in Economics
-    institution: Big Ten University
-    year: 2021 (Expected)
-  - course: MS in Economics
-    institution:  Big Ten University
+    institution: Rice Ten University
+    year: 2023 (Expected)
+  - course: MSc in Economics
+    institution: University of Wisconsin-Madison
     year: 2017  
-  - course: BA in Economics
-    institution: Liberal Arts College
-    year: 2016
+  - course: BSc in Statistics
+    institution: Fudan University
+    year: 205
 
 
 # Social/Academic Networking
