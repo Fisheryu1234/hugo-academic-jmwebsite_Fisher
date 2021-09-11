@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Economics
-    institution: Rice Ten University
+    institution: Rice University
     year: 2023 (Expected)
   - course: MSc in Economics
     institution: University of Wisconsin-Madison
