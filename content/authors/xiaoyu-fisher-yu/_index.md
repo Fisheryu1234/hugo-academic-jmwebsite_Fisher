@@ -1,6 +1,6 @@
 ---
-title: Xiaoyu(Fisher) Yu
 role: PhD Candidate in Economics
+avatar_filename: f13195d4-8ce0-4adf-821e-66533840d1ed_4_5005_c.jpeg
 bio: My research interests include empirical industrial organization,
   quantitative marketing and applied microeconomics
 interests:
@@ -37,9 +37,10 @@ education:
     - course: BSc in Statistics
       institution: Fudan University
       year: 2011
-email: ""
 superuser: true
 highlight_name: true
+title: Xiaoyu(Fisher) Yu
+email: ""
 ---
 I am a fifth-year Ph.D. student in the Department of Economics at Rice University. tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
