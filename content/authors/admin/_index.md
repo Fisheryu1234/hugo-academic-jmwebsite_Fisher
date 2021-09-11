@@ -22,21 +22,21 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xiaoyu-yu-97256141/
 organizations:
   - name: Rice University
     url: https://www.rice.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: Rice University
+      year: ""
+    - course: MSc in Economics
+      institution: University of Wisconsin-Madison
+      year: 2017
+    - course: BSc in Statistics
+      institution: Fudan University
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
