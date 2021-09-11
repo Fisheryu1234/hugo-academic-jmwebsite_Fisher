@@ -1,8 +1,7 @@
 ---
 role: PhD Candidate in Economics
 avatar_filename: f13195d4-8ce0-4adf-821e-66533840d1ed_4_5005_c.jpeg
-bio: My research interests include empirical industrial organization,
-  quantitative marketing and applied microeconomics
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
