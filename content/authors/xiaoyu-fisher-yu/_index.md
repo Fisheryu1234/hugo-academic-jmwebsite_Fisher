@@ -36,7 +36,7 @@ education:
     - course: BSc in Statistics
       institution: Fudan University
       year: 2011
-superuser: true
+superuser: false
 highlight_name: true
 title: Xiaoyu(Fisher) Yu
 email: ""
