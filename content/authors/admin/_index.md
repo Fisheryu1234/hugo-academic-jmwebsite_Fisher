@@ -50,7 +50,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/twitter_handle
 - icon: linkedin
-  icon_pack:fab 
+  icon_pack: fab 
   link: https://www.linkedin.com/in/xiaoyu-yu-97256141/
 # - icon: github
 #  icon_pack: fab
