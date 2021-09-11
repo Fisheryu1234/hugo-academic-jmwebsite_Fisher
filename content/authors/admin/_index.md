@@ -14,9 +14,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ # - icon: graduation-cap
+ #   icon_pack: fas
+ #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/xiaoyu-yu-97256141/
   - icon: cv
     icon_pack: ai
-    link: files/501-Fall2017Syllabus.pdf
+    link:files/501-Fall2017Syllabus.pdf
 organizations:
   - name: Rice University
     url: https://www.rice.edu/
