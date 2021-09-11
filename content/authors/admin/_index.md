@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Rice University
-      year: ""
+      year: 2023
     - course: MSc in Economics
       institution: University of Wisconsin-Madison
       year: 2017
