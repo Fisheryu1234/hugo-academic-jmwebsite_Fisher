@@ -23,9 +23,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/xiaoyu-yu-97256141/
-   - icon: cv
-     icon_pack: ai
-     link: files/501-Fall2017Syllabus.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/501-Fall2017Syllabus.pdf
 organizations:
   - name: Rice University
     url: https://www.rice.edu/
