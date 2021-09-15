@@ -18,7 +18,7 @@ organizations:
   url: "www.rice.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics. 
+bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University. 
 
 interests:
 - Health economics
@@ -35,7 +35,7 @@ education:
     year: 2017  
   - course: BSc in Statistics
     institution: Fudan University
-    year: 205
+    year: 2015
 
 
 # Social/Academic Networking
