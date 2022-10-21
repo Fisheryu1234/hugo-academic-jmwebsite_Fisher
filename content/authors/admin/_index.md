@@ -22,7 +22,7 @@ bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University.
 
 interests:
 - Empirical Industrial Organizaton 
-- Applied Econometrics
+- Applied Microeconometrics
  
 
 education:
