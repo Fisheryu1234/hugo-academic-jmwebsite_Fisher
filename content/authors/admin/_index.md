@@ -23,6 +23,8 @@ bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University.
 interests:
 - Empirical Industrial Organizaton 
 - Applied Microeconometrics
+- Quantitative Marketing
+- Causual Inference
  
 
 education:
@@ -30,7 +32,7 @@ education:
   - course: PhD in Economics
     institution: Rice University
     year: 2023 (Expected)
-  - course: Master in Economics
+  - course: MSc in Economics
     institution: Rice University
     year: 2023 (Expected)
   - course: MSc in Economics
@@ -48,10 +50,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:fisheryu@rice.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/twitter_handle
+  link: https://twitter.com/Xiaoyuyu8
 - icon: linkedin
   icon_pack: fab 
   link: https://www.linkedin.com/in/xiaoyu-yu-97256141/
@@ -61,9 +63,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+# icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "fisheryu@rice.edu"
@@ -75,5 +77,5 @@ user_groups:
 - Visitors
 ---
 
-Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics and will be available for interviews for the 2020-2021 job market. 
+Xiaoyu Yu is a doctoral candidate in economics at Rice University. Job candidate has research interests in health and environmental economics and will be available for interviews for the 2022-2023 job market. 
 
