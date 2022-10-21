@@ -14,20 +14,23 @@ role: PhD candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Rice University
-  url: "www.rice.edu"
+- name: Department of Economics, Rice University
+  url: "https://economics.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University. 
 
 interests:
-- Health economics
-- Environmental economics
+- Empirical Industrial Organizaton 
+- Applied Econometrics
  
 
 education:
   courses:
   - course: PhD in Economics
+    institution: Rice University
+    year: 2023 (Expected)
+  - course: Master in Economics
     institution: Rice University
     year: 2023 (Expected)
   - course: MSc in Economics
@@ -63,7 +66,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "fisheryu@rice.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
