@@ -77,6 +77,6 @@ social:
 #- Visitors
 ---
 
-Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
+Hi, welcome to my website! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
 
-Here are my academic CV and one-page resume. 
+Here are my academic [CV](files/CV_V1.pdf) and one-page [resume](files/Yu_Xiaoyu.pdf). 
