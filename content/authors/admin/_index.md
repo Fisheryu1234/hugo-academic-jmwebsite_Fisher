@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University. 
+# bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University. 
 
 Interests:
 - Demand Estimation
