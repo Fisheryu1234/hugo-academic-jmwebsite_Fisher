@@ -22,11 +22,17 @@ organizations:
 bio: Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
 applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
 
+<<<<<<< HEAD
 Interests:
   - Demand Estimation 
   - Partial Identification
   - Spatial Econometrics
   - Causal Inference
+=======
+interests:
+- Empirical Industrial Organizaton 
+- Applied Econometrics
+>>>>>>> parent of a1f8e64 (Update _index.md)
  
 education:
   courses:
