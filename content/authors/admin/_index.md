@@ -18,21 +18,21 @@ organizations:
   url: "https://economics.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University. 
+bio: Hi, welcome to your homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
+applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
 
-interests:
-- Empirical Industrial Organizaton 
-- Applied Microeconometrics
-- Quantitative Marketing
-- Causual Inference
+Interests:
+- Demand Estimation 
+- Partial Identification
+- Spatial Econometrics
+- Causal Inference
  
-
 education:
   courses:
   - course: PhD in Economics
     institution: Rice University
     year: 2023 (Expected)
-  - course: MSc in Economics
+  - course: MSc in Statistics
     institution: Rice University
     year: 2023 (Expected)
   - course: MSc in Economics
@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:fisheryu@rice.org".
+  link: mailto:fisheryu@rice.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Xiaoyuyu8
@@ -64,18 +64,20 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
-# icon_pack: ai
+#  icon_pack: ai
 #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fisheryu@rice.edu"
+# email: "fisheryu@rice.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+# - Researchers
+# - Visitors
+
 ---
 
-Xiaoyu Yu is a doctoral candidate in economics at Rice University. has research interests in and will be available for interviews for the 2022-2023 job market. 
+Hi, welcome to your homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
+applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
 
