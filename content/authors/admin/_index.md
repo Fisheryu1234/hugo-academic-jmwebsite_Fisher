@@ -32,6 +32,9 @@ Interests:
 interests:
 - Empirical Industrial Organizaton 
 - Applied Econometrics
+<<<<<<< HEAD
+>>>>>>> parent of a1f8e64 (Update _index.md)
+=======
 >>>>>>> parent of a1f8e64 (Update _index.md)
  
 education:
