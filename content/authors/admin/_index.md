@@ -22,7 +22,7 @@ bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University.
 
 Interests:
 - Demand Estimation
-- Parital Identification
+- Partial Identification
 - Spatial Econometrics
 - Causal Inference
  
@@ -77,4 +77,4 @@ social:
 #- Visitors
 ---
 
-Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
+Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and applied microeconometrics. I will be available for interviews for the 2022-2023 job market.
