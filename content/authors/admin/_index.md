@@ -1,5 +1,4 @@
 ---
-
 # Display name
 title: Xiaoyu(Fisher) Yu
 
@@ -19,24 +18,15 @@ organizations:
   url: "https://economics.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
-applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
+bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University. 
 
-<<<<<<< HEAD
 Interests:
-  - Demand Estimation 
-  - Partial Identification
-  - Spatial Econometrics
-  - Causal Inference
-=======
-interests:
-- Empirical Industrial Organizaton 
-- Applied Econometrics
-<<<<<<< HEAD
->>>>>>> parent of a1f8e64 (Update _index.md)
-=======
->>>>>>> parent of a1f8e64 (Update _index.md)
+- Demand Estimation
+- Parital Identification
+- Spatial Econometrics
+- Causal Inference
  
+
 education:
   courses:
   - course: PhD in Economics
@@ -63,7 +53,7 @@ social:
   link: mailto:fisheryu@rice.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Xiaoyuyu8
+  link: https://twitter.com/XiaoyuYu8
 - icon: linkedin
   icon_pack: fab 
   link: https://www.linkedin.com/in/xiaoyu-yu-97256141/
@@ -82,12 +72,9 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# - user_groups:
-# - Researchers
-# - Visitors
-
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
-applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
-
+Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
