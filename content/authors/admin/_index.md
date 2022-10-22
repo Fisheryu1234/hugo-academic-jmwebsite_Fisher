@@ -77,5 +77,5 @@ user_groups:
 - Visitors
 ---
 
-Xiaoyu Yu is a doctoral candidate in economics at Rice University. Job candidate has research interests in health and environmental economics and will be available for interviews for the 2022-2023 job market. 
+Xiaoyu Yu is a doctoral candidate in economics at Rice University. has research interests in and will be available for interviews for the 2022-2023 job market. 
 
