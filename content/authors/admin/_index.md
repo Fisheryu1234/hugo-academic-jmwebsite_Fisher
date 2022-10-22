@@ -23,10 +23,10 @@ bio: Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice 
 applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
 
 Interests:
-- Demand Estimation 
-- Partial Identification
-- Spatial Econometrics
-- Causal Inference
+  - Demand Estimation 
+  - Partial Identification
+  - Spatial Econometrics
+  - Causal Inference
  
 education:
   courses:
@@ -73,7 +73,7 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
+# - user_groups:
 # - Researchers
 # - Visitors
 
