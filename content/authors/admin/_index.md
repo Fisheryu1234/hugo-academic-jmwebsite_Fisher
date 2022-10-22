@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, welcome to your homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
+bio: Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
 applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
 
 Interests:
@@ -78,6 +78,6 @@ social:
 
 ---
 
-Hi, welcome to your homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
+Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and 
 applied microeconometrics. I will be available for interviews for the 2022-2023 job market. 
 
