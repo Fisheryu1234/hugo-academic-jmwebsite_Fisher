@@ -63,9 +63,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "fisheryu@rice.edu"
@@ -77,4 +77,4 @@ social:
 #- Visitors
 ---
 
-Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and applied microeconometrics. I will be available for interviews for the 2022-2023 job market.
+Hi, welcome to my homepage! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and applied microeconometrics. I will be available for interviews for the 2022-2023 job market. You can find my academic CV and one-page resume here. 
