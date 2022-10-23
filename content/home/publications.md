@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: "collection"
+widget: "pages"
 
 # This file represents a page section.
 headless: true
@@ -14,16 +14,18 @@ subtitle: ''
 
 content:
   # Filter on criteria
-  filters:
-    folders: 'publication'
-    tag: ''
-    category: ''
-    publication_type: 'publication'
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
+  #filters:
+  #  folders: 'publication'
+  #  tag: ''
+  #   category: ''
+  #  publication_type: 'publication'
+  #  author: ''
+  #  exclude_featured: false
+  #  exclude_future: false
+  #  exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
+  folders: 'publication'
+  page_type: 'publication'
   count: 0
   # Choose how many pages you would like to offset by
   offset: 0
