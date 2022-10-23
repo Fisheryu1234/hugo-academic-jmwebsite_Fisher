@@ -15,10 +15,10 @@ subtitle: ''
 content:
   # Filter on criteria
   filters:
-    folders: "publication"
-    tag: ''
-    category: ''
-    publication_type: ''
+  folders: 'publication'
+  tag: ''
+  category: ''
+  publication_type: 'publication'
     author: ''
     exclude_featured: false
     exclude_future: false
