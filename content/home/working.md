@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Working Papers
+title: "Working Papers"
 subtitle: ""
 
 content:
@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "3"
+    publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
