@@ -32,6 +32,6 @@ content:
 design:
   # Choose a view for the listings:
   view: Card
-  # columns: '2'
+  columns: '2'
 ---
 
