@@ -1,12 +1,12 @@
 ---
-title: "Job market paper"
+title: "Bundle Choice with Limited Consideration - An Application to the Yogurt Market (Job market paper)"
 authors:
-- admin
-date: "2020-04-07T00:00:00Z"
+- Xiaoyu Yu
+date: "2022-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,13 +18,14 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I combine complementarity in bundle choice and consideration set of products into a demand model of differentiated products. I show the identification of consideration probabilities from the asymmetric demand even when only marginal market shares of products, not bundle options, are observed. I apply the model to the yogurt market with both consumer-level and store-level data to quantify the complementarity and the degree of limited consideration. I find a large demand synergy between fat-free and reduced-fat yogurts and a significant proportion of inertia, namely choosing from last purchases, in yogurt consumption. My results suggest substantial biases in estimates of cross price elasticities and diversion ratios when ignoring complementarity and limited consideration.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Bundle options and limited consideration extend the standard demand model for differentiated products. I use data on household shopping and store sales to estimate the complementarity in bundles and the degree of limited consideration in yogurt purchases.
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: false
 
 links:
@@ -50,7 +51,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+# projects:
 
 
 # Slides (optional).
@@ -58,5 +59,6 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ''
+# slides: ''
 ---
+
