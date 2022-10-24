@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: I combine complementarity in bundle choice and consideration set of products into a demand model of differentiated products. I show the identification of consideration probabilities from the asymmetric demand even when only marginal market shares of products, not bundle options, are observed. I apply the model to the yogurt market with both consumer-level and store-level data to quantify the complementarity and the degree of limited consideration. I find a large demand synergy between fat-free and reduced-fat yogurts and a significant proportion of inertia, namely choosing from last purchases, in yogurt consumption. My results suggest substantial biases in estimates of cross price elasticities and diversion ratios when ignoring complementarity and limited consideration.
+abstract: I combine complementarity in bundle choice and consideration set of products into a demand model of differentiated products. I show the identification of consideration probabilities from the asymmetric demand even when only marginal market shares of products, not bundle options, are observed. I apply the model to the yogurt market with both consumer-level and store-level data to quantify the complementarity and the degree of limited consideration. I find a large demand synergy between fat-free and reduced-fat yogurts and a significant proportion of inertia, namely choosing from last purchases, in yogurt consumption. My results suggest substantial biases in estimates of cross-price elasticities and diversion ratios when ignoring complementarity and limited consideration.
 
 
 # Summary. An optional shortened abstract.
