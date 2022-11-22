@@ -31,7 +31,7 @@ featured: false
 links:
 
 ##files/JMP_draft.pdf
-url_pdf: 'files/JMP_Fisher_Yu_Nov22.pdf' 
+url_pdf: 'files/JMP_draft.pdf' 
 url_code: ''
 url_dataset: ''
 url_poster: ''
