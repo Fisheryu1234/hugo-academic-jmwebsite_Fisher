@@ -32,7 +32,7 @@ education:
   - course: PhD in Economics
     institution: Rice University
     year: 2023 (Expected)
-  - course: MSc in Statistics
+  - course: MA in Statistics
     institution: Rice University
     year: 2023 (Expected)
   - course: MSc in Economics
