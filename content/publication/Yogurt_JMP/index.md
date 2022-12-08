@@ -2,7 +2,7 @@
 title: "Bundle Choice with Limited Consideration - An Application to Yogurt (Job market paper)"
 authors:
 - Xiaoyu Yu
-date: "2022-11-01T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
