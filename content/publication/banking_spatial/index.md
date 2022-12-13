@@ -1,5 +1,5 @@
 ---
-title: "Spillover Effects of Natural Disasters on Banks: A Spatial Framework"
+title: "Direct and Indirect Impacts of Natural Disasters on Banks: A Spatial Framework"
 authors:
 - James Barth
 - Qinyou Hu
@@ -7,7 +7,7 @@ authors:
 - Yanfei Sun
 - Xiaoyu Yu
 
-date: "2022-06-02T00:00:00Z"
+date: "2022-12-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
