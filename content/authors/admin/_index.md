@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: an Econonist
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Economics, Rice University
-  url: "https://economics.rice.edu/"
+- name: Digonex
+  url: "https://www.digonex.com/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Xiaoyu Yu is a doctoral candidate in economics at Rice University. 
+# bio: Xiaoyu Yu is currently an Economist at Digonex. 
 
 Interests:
 - Demand Estimation
-- Partial Identification
 - Spatial Econometrics
+- Partial Identification
 - Causal Inference
  
 
@@ -31,10 +31,10 @@ education:
   courses:
   - course: PhD in Economics
     institution: Rice University
-    year: 2023 (Expected)
+    year: 2023 
   - course: MA in Statistics
     institution: Rice University
-    year: 2023 (Expected)
+    year: 2023 
   - course: MSc in Economics
     institution: University of Wisconsin-Madison
     year: 2017  
@@ -68,7 +68,7 @@ social:
 #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "fisheryu@rice.edu"
+# email: "fisheryxy1217@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,6 +77,7 @@ social:
 #- Visitors
 ---
 
-Hi, welcome to my website! I am a doctoral candidate in economics at Rice University. My research fields are empirical industrial organization and applied microeconometrics. I am looking for the job opportunity in industry and will be available for interviews for the 2022-2023 job market. Feel free to contact me!
+Hi, welcome to my website! I am currently working as an Economist at [Digonex](https://www.digonex.com), providing dynamic pricing solutions to clinets in attractions and performing arts. I received my PhD in Economics at Rice University in May 2023. My research fields are empirical industrial organization and applied microeconometrics, 
+##Feel free to contact me!
 
-Here are my one-page [resume](files/Yu_Xiaoyu_Resume.pdf) and the research-oriented [CV](files/Fisher_CV.pdf).
+##Here are my one-page [resume](files/Yu_Xiaoyu_Resume.pdf) and the research-oriented [CV](files/Fisher_CV.pdf).
