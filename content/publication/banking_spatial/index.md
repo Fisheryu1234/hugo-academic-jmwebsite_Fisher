@@ -1,5 +1,5 @@
 ---
-title: "Direct and Indirect Impacts of Natural Disasters on Banks: A Spatial Framework"
+title: "Direct and Indirect Impacts of Natural Disasters on Banks: A Spatial Framework (Conditionally Accepted at Journal of Financial Stability)"
 authors:
 - James Barth
 - Qinyou Hu
@@ -7,7 +7,7 @@ authors:
 - Yanfei Sun
 - Xiaoyu Yu
 
-date: "2022-11-01T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
