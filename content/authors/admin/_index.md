@@ -77,7 +77,7 @@ social:
 #- Visitors
 ---
 
-Hi, welcome to my website! I am currently working as an Economist at [Digonex](https://www.digonex.com), providing dynamic pricing solutions to clinets in attractions and performing arts. I received my PhD in Economics at Rice University in May 2023. My research fields are empirical industrial organization and applied microeconometrics, 
+Hi, welcome to my website! I am currently working as an economist at [Digonex](https://www.digonex.com), providing dynamic pricing solutions to clinets in attractions and performing arts. I received my PhD in Economics at Rice University in May 2023. My research fields are empirical industrial organization and applied microeconometrics, 
 Feel free to contact me!
 
 # Here are my one-page [resume](files/Yu_Xiaoyu_Resume.pdf) and the research-oriented [CV](files/Fisher_CV.pdf).
