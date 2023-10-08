@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: an Econonist
+role: Econonist at Digonex
 
 # Organizations/Affiliations
-organizations:
-- name: Digonex
-  url: "https://www.digonex.com/"
+# organizations:
+# - name: Digonex
+#  url: "https://www.digonex.com/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Xiaoyu Yu is currently an Economist at Digonex. 
@@ -78,6 +78,6 @@ social:
 ---
 
 Hi, welcome to my website! I am currently working as an Economist at [Digonex](https://www.digonex.com), providing dynamic pricing solutions to clinets in attractions and performing arts. I received my PhD in Economics at Rice University in May 2023. My research fields are empirical industrial organization and applied microeconometrics, 
-##Feel free to contact me!
+Feel free to contact me!
 
-##Here are my one-page [resume](files/Yu_Xiaoyu_Resume.pdf) and the research-oriented [CV](files/Fisher_CV.pdf).
+# Here are my one-page [resume](files/Yu_Xiaoyu_Resume.pdf) and the research-oriented [CV](files/Fisher_CV.pdf).
