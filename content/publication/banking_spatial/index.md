@@ -1,5 +1,5 @@
 ---
-title: "Direct and Indirect Impacts of Natural Disasters on Banks: A Spatial Framework (Conditionally Accepted at Journal of Financial Stability)"
+title: "Direct and Indirect Impacts of Natural Disasters on Banks: A Spatial Framework"
 authors:
 - James Barth
 - Qinyou Hu
@@ -27,7 +27,7 @@ abstract: We examine the direct and indirect impacts of natural disasters on dep
 
 
 # Summary. An optional shortened abstract.
-summary: We examine the direct and indirect impacts of natural disasters on deposit rates of bank branches during the 2008 – 2017 period. We find spatial spillover effects contribute substantially to the total impact for deposit rate-setting branches.
+summary: We examine the direct and indirect impacts of natural disasters on deposit rates of bank branches during the 2008 – 2017 period. We find spatial spillover effects contribute substantially to the total impact for deposit rate-setting branches.(Conditionally Accepted at *Journal of Financial Stability*, 2023)
 
 #tags:
 #- Source Themes
