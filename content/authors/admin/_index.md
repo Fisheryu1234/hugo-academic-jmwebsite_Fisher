@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:fisheryu@rice.edu
+  link: mailto:fisheryxy1217@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/XiaoyuYu8
@@ -77,6 +77,6 @@ social:
 #- Visitors
 ---
 
-Hi, welcome to my website! I am currently working as an economist at [Digonex](https://www.digonex.com), providing dynamic pricing solutions to clinets in attractions and performing arts. I received my PhD in Economics at Rice University in May 2023. My research fields are empirical industrial organization and applied microeconometrics, but I love to make real-world business impacts using all quantitative toolkits. Feel free to contact me if you are interested!
+Hi, welcome to my website! I am currently working as an economist at [Digonex](https://www.digonex.com), providing the dynamic pricing solution to clinets in attractions and performing arts. I received my PhD in Economics at Rice University in May 2023. My research fields are empirical industrial organization and applied microeconometrics, but I love to make real-world business impacts using all quantitative toolkits. Feel free to contact me if you are interested!
 
 [//]: # (Here are my one-page [resume](files/Yu_Xiaoyu_Resume.pdf) and the research-oriented [CV](files/Fisher_CV.pdf))
